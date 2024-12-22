@@ -1,0 +1,14 @@
+C:\Users\leone\OneDrive\Escritorio\Coding\C#\HW\hw\bin\Debug\net8.0\hw.exe
+C:\Users\leone\OneDrive\Escritorio\Coding\C#\HW\hw\bin\Debug\net8.0\hw.deps.json
+C:\Users\leone\OneDrive\Escritorio\Coding\C#\HW\hw\bin\Debug\net8.0\hw.runtimeconfig.json
+C:\Users\leone\OneDrive\Escritorio\Coding\C#\HW\hw\bin\Debug\net8.0\hw.dll
+C:\Users\leone\OneDrive\Escritorio\Coding\C#\HW\hw\bin\Debug\net8.0\hw.pdb
+C:\Users\leone\OneDrive\Escritorio\Coding\C#\HW\hw\obj\Debug\net8.0\hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\OneDrive\Escritorio\Coding\C#\HW\hw\obj\Debug\net8.0\hw.AssemblyInfoInputs.cache
+C:\Users\leone\OneDrive\Escritorio\Coding\C#\HW\hw\obj\Debug\net8.0\hw.AssemblyInfo.cs
+C:\Users\leone\OneDrive\Escritorio\Coding\C#\HW\hw\obj\Debug\net8.0\hw.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\Coding\C#\HW\hw\obj\Debug\net8.0\hw.dll
+C:\Users\leone\OneDrive\Escritorio\Coding\C#\HW\hw\obj\Debug\net8.0\refint\hw.dll
+C:\Users\leone\OneDrive\Escritorio\Coding\C#\HW\hw\obj\Debug\net8.0\hw.pdb
+C:\Users\leone\OneDrive\Escritorio\Coding\C#\HW\hw\obj\Debug\net8.0\hw.genruntimeconfig.cache
+C:\Users\leone\OneDrive\Escritorio\Coding\C#\HW\hw\obj\Debug\net8.0\ref\hw.dll
